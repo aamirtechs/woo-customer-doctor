@@ -1,0 +1,3 @@
+id,email,username,first_name,last_name,registered,billing_first_name,billing_last_name,billing_address_1,billing_city,billing_postcode,billing_country,billing_phone,orders_count,total_spent,last_order_status,last_order_date
+1,mike@example.com,mike,Mike,Price,2026-06-01,Mike,Price,12 Oak Street,Springfield,62701,US,555-0101,0,0.00,,
+2,nina@example.org,nina,Nina,Quinn,2026-06-15,Nina,Quinn,8 Pine Road,,10001,US,555-0102,0,0.00,,

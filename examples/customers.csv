@@ -1,0 +1,14 @@
+id,email,username,first_name,last_name,registered,billing_first_name,billing_last_name,billing_address_1,billing_city,billing_postcode,billing_country,billing_phone,orders_count,total_spent,last_order_status,last_order_date
+1,alice@example.com,alice,Alice,Carter,2026-01-05,Alice,Carter,12 Oak Street,Springfield,62701,US,555-0101,3,120.50,completed,2026-10-02
+2,ALICE@example.com,alice2,Alice,Carter,2026-02-11,Alice,Carter,12 Oak Street,Springfield,62701,US,555-0101,1,45.00,completed,2026-09-18
+3,alice+shop@example.com,alice_shop,Alice,Carter,2026-03-20,Alice,Carter,12 Oak Street,Springfield,62701,US,555-0101,0,0.00,,2026-03-20
+4,bob@example.org,bob1234567,Bob,Diaz,2026-04-02,Bob,Diaz,8 Pine Road,Riverton,10001,US,555-0102,0,0.00,,
+5,spamuser@mailinator.com,qzxw9876,,,2026-05-14,,,,,,,,0,0.00,,
+6,carol@example.com,carol,Carol,Evans,2026-01-22,Carol,Evans,,Springfield,62701,US,555-0103,2,80.00,completed,2026-10-11
+7,dave@example.net,dave,Dave,Ford,2026-02-08,Dave,Ford,44 Elm Avenue,Greenville,29601,US,555-0104,2,0.00,failed,2026-08-30
+8,not-an-email,notanemail,Eve,Grant,2026-06-01,Eve,Grant,3 Birch Lane,Madison,53703,US,555-0105,1,10.00,completed,2026-09-25
+9,,frank,Frank,Hale,2026-06-19,Frank,Hale,9 Cedar Court,Salem,97301,US,555-0106,0,0.00,,
+10,testuser@example.com,testuser,Test,User,2026-07-04,Test,User,21 Maple Drive,Austin,78701,US,555-0107,0,0.00,,
+11,grace@example.com,grace,Grace,Ivy,2026-03-11,Grace,Ivy,77 Willow Way,Denver,80202,US,555-0108,three,95.00,completed,2026-10-05
+12,henry@example.com,henry,Henry,Jones,2026-05-27,Henry,Jones,5 Ash Street,Portland,97205,US,555-0109,1,-5.00,completed,2026-09-02
+13,extra@example.com,extra,Extra,Fields,2026-08-15,Extra,Fields,1 Extra Road,Nowhere,00000,US,555-0110,1,5.00,completed,2026-09-09,unexpected

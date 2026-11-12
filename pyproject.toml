@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "woo-customer-doctor"
+version = "1.0.0"
+description = "Audit a WooCommerce customers CSV export for duplicate accounts, zero-order accounts, spam signups, missing billing details, and failed-only order histories"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+[project.scripts]
+woo-customer-doctor = "woo_customer_doctor:main_entry"
+
+[tool.setuptools]
+py-modules = ["woo_customer_doctor"]

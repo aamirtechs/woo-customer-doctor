@@ -1,0 +1,4 @@
+id,email,username,first_name,last_name,registered,billing_first_name,billing_last_name,billing_address_1,billing_city,billing_postcode,billing_country,billing_phone,orders_count,total_spent,last_order_status,last_order_date
+1,jane@example.com,jane,Jane,Moore,2026-01-10,Jane,Moore,12 Oak Street,Springfield,62701,US,555-0101,2,60.00,completed,2026-10-02
+2,karl@example.org,karl,Karl,Novak,2026-02-14,Karl,Novak,8 Pine Road,Riverton,10001,US,555-0102,1,25.00,processing,2026-10-09
+3,lena@example.com,lena,Lena,Ortiz,2026-03-03,Lena,Ortiz,44 Elm Avenue,Greenville,29601,US,555-0103,5,300.00,completed,2026-10-10
